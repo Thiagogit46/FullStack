@@ -1,0 +1,39 @@
+.opções{
+    justify-content: space-around;
+    display: flex;
+    align-items: flex-start;
+}
+.hr{
+    border: none;
+}
+.assine{
+    background-color: red;
+    color: white;
+}
+.contatos{
+    justify-content: flex-end;
+    display: flex;
+    flex-direction: column;
+}
+.play{
+    background-color: gray;
+    color: white;
+}
+.video{
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px;
+}
+.rodape{
+    display: flex;
+    justify-content: space-around;
+}
+.Noticia{
+    color: red;
+}
+.imagens{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+}

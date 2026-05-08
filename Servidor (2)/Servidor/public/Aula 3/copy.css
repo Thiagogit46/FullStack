@@ -1,0 +1,89 @@
+body{
+    background-color: lightgrey;
+}
+header{
+    background-color: bisque;
+    color: darkgreen;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    font-style: SansSerif;
+}
+.subtitulo{
+    background-color: lightblue;
+    color: darkred;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    display: flex;
+    gap: 200px;
+    font-size: 20pt;
+    font-style: SansSerif;
+
+
+}
+.texto{
+    color: indigo;
+    text-align: center;
+    display: flex;
+    font-size: 20pt;
+    font-style: SansSerif;
+
+}
+.Introdução{
+    text-align: center;
+    font-style: SansSerif;
+}
+.Livro{
+    text-align: center;
+    font-style: SansSerif;
+}
+.Livros{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    padding: 30px;
+}
+.Aprenda{
+    text-align: center;
+    font-style: SansSerif;
+}
+.Referencias{
+    align-items: center;
+    display: flex;
+    gap: 200px;
+    padding: 15px;
+    justify-content: center;
+
+}
+
+
+table,tr,td{
+    border-style: dashed;
+    border-color: red;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    color: red;
+}
+.lista{
+    background-color: yellow;
+    width: 550px;
+    font-size: 15pt;
+    font-family: sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.rodape{
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    font-style: SansSerif;
+    font-size: 15pt;
+    background-color: bisque;
+}

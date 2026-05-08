@@ -1,0 +1,16 @@
+{
+  "name": "servidor",
+  "version": "1.0.0",
+  "description": "este é um servidor. so eu t lov",
+  "main": "servidor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Thiago Regio",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^5.0.2",
+    "express": "^5.2.1"
+  }
+}
